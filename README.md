@@ -33,8 +33,8 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repository-url>
-   cd pdf-chat-assistant
+   git clone https://github.com/siyabongaprospersithole/rag-deepseekv3
+   cd rag-deepseekv3
    ```
 
 2. **Create and Activate a Virtual Environment**:
