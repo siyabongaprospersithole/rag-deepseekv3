@@ -1,7 +1,7 @@
 
-# PDF Chat Assistant 🤖
+# PDF Chat Assistant 
 
-A dynamic and intuitive PDF question-answering system leveraging Flask, Streamlit, and the Deepseek API to create a seamless interactive chat interface for PDF documents.
+A dynamic and intuitive PDF question-answering system leveraging Flask, Streamlit, and the Deepseek V3 API to create a seamless interactive chat interface for PDF documents.
 
 ![PDF Chat Assistant Demo](demo.gif)
 
@@ -20,7 +20,7 @@ A dynamic and intuitive PDF question-answering system leveraging Flask, Streamli
 
 ---
 
-## Prerequisites 📋
+## Prerequisites 
 
 Ensure you have the following installed:
 - Python 3.8 or higher
@@ -29,7 +29,7 @@ Ensure you have the following installed:
 
 ---
 
-## Installation 🛠️
+## Installation 
 
 1. **Clone the Repository**:
    ```bash
@@ -67,7 +67,7 @@ Ensure you have the following installed:
 
 ---
 
-## Configuration ⚙️
+## Configuration 
 
 1. Create a `.env` file with the following:
    ```env
@@ -79,7 +79,7 @@ Ensure you have the following installed:
 
 ---
 
-## Running the Application 🚀
+## Running the Application 
 
 1. **Start the Flask Backend Server**:
    ```bash
@@ -96,7 +96,7 @@ Ensure you have the following installed:
 
 ---
 
-## Usage Guide 📖
+## Usage Guide 
 
 1. **Upload a PDF**:
    - Click the "Browse files" button.
@@ -118,7 +118,7 @@ Ensure you have the following installed:
 
 ---
 
-## Project Structure 📁
+## Project Structure 
 
 ```
 pdf-chat-assistant/
@@ -150,19 +150,19 @@ pdf-chat-assistant/
 
 ---
 
-## Contributing 🤝
+## Contributing 
 
 We welcome contributions! Feel free to fork the repository, create a branch, and submit a Pull Request.
 
 ---
 
-## License 📄
+## License 
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
-## Acknowledgments 🙏
+## Acknowledgments 
 
 - **Deepseek API** for its powerful language model.
 - **Streamlit** for the incredible web framework.
