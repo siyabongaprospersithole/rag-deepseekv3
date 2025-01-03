@@ -71,7 +71,7 @@ Ensure you have the following installed:
 
 1. Create a `.env` file with the following:
    ```env
-   OPENAI_API_KEY=your-deepseek-api-key-here
+   DEEPSEEK_API_TOKEN=your-deepseek-api-key-here
    FLASK_SECRET_KEY=your-secure-random-key-here
    ```
 
