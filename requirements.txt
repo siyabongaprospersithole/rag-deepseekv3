@@ -1,0 +1,2 @@
+streamlit
+pandas  # Add any additional libraries
